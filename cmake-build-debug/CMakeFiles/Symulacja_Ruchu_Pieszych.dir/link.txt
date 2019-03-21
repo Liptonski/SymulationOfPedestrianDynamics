@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Symulacja_Ruchu_Pieszych.dir/main.cpp.o CMakeFiles/Symulacja_Ruchu_Pieszych.dir/Reader.cpp.o CMakeFiles/Symulacja_Ruchu_Pieszych.dir/Field.cpp.o CMakeFiles/Symulacja_Ruchu_Pieszych.dir/StaticField.cpp.o CMakeFiles/Symulacja_Ruchu_Pieszych.dir/Symulation.cpp.o  -o Symulacja_Ruchu_Pieszych 
