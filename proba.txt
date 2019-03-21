@@ -1,13 +1,25 @@
-		
-	
-
-		
-
-                  
-x		xxxxxxxxxxxxxxxxx
-x		x		x
-                x		x
-		x               x
-		x        	x
-		x		x
-		xxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                    !!x
+x                                    !!x
+x                                      x
+x                                    !!x
+x                                    !!x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+x                                      x
+xxxxxxxxxxxxxxxxxx****xxxxxxxxxxxxxxxxxx
